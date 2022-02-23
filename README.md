@@ -23,6 +23,12 @@ Des ressources pour décrocher le job de mes rêves.
 - [Captain Dev](https://youtu.be/tVSfaQ7nZHQ)
 - [Practical Programming](https://youtu.be/Ndemby1XOQ0)
 
+## Formations
+
+- [Trouver Un Poste](https://school.welovedevs.com/view/courses/formation-candidat-anticipe)
+- [Décroche 1er Job Dev Junior](https://masterclass.nicolas.brondin-bernard.com/view/courses/decroche-ton-premier-job-en-tant-que-developpeur-junior)
+- [Devenir Dev Freelance Indépendant](https://masterclass.nicolas.brondin-bernard.com/view/courses/devenir-developpeur-freelance-independant)
+
 ## Salaires
 
 - [We Love Dev](https://welovedevs.com/fr/salaires)
@@ -37,7 +43,4 @@ Des ressources pour décrocher le job de mes rêves.
 
 - [Guide Linkedin](https://www.dropbox.com/s/jbmjlr3a9lrnkzj/linkedin_by_simon.pdf?dl=0)
 - [Portfolio Michel Deckert](https://www.mdkrt.dev/)
-
-
-
-
+- [React Ultimate Resume](https://welovedevs.com/react-ultimate-resume)
