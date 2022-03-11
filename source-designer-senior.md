@@ -87,7 +87,6 @@ Nous sommes convaincus que pour pouvoir créer des solutions pertinentes, effici
 Si votre candidature est retenue, nous vous inviterons à passer par les étapes suivantes:
 
 1. Premier entretien pour valider le fit entre vos attentes, vos expertises et le poste (30mn max.)
-2. Test technique
-3. Entretien métier avec un CTO & un développeur confirmé (1h)
-4. Rencontre avec la direction (30mn à 1h)
-5. Rencontre avec les équipes (1h)
+2. Entretien métier avec un lead designer sénior associé & un designer confirmé (1h)
+3. Entretien(s) avec les associés (une à plusieurs rencontres de 30mn à 1h)
+4. Rencontre avec les équipes (1h)
