@@ -9,7 +9,7 @@ Pour en savoir plus sur nos valeurs, notre culture et notre process de recruteme
 
 - [Product Owner](source-product-owner.md)
 - [Dev Junior](source-dev-junior.md)
-- [Dev Senior](source-dev-senior.md)
+- [Dev Confirmé](source-dev-confirme.md)
 - [Designer](source-designer.md)
 - [Designer UX/UI Junior](source-designer-ux-ui-junior.md)
-- [Designer UX/UI Senior](source-designer-ux-ui-senior.md)
+- [Designer UX/UI Confirmé](source-designer-ux-ui-confirme.md)
