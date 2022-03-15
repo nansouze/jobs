@@ -8,6 +8,9 @@ Des ressources pour décrocher le job de mes rêves.
 - [We Love Dev](https://welovedevs.com/app/jobs)
 - [Welcome To The Jungle](https://www.welcometothejungle.com/fr/jobs)
 - [Stackoverflow](https://stackoverflow.com/jobs)
+- [Malt](https://www.malt.fr/)
+- [Crème de la Crème](https://www.cremedelacreme.io/)
+- [Comet](https://www.comet.co/)
 - [Source](source.md)
   
 ## Tools
