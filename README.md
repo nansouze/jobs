@@ -44,6 +44,10 @@ Des ressources pour décrocher le job de mes rêves.
 - [Unlck](https://unlck.fr/barometre-salaires-tech/)
 - [Indeed](https://fr.indeed.com/cmp/Dassault-Syst%C3%A8mes-1/salaries)
 
+## Podcast
+
+- [Changement de programme](https://changementdeprogramme.com/)
+
 ## CV
 
 - [Guide Linkedin](https://www.dropbox.com/s/jbmjlr3a9lrnkzj/linkedin_by_simon.pdf?dl=0)
