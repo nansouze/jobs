@@ -21,6 +21,7 @@ Des ressources pour décrocher le job de mes rêves.
 - [Devenir Meilleur Dev Node.js](https://docs.google.com/document/d/1JHgmEFkc8Py4XSuCB8_DQ5FFEJoogyeninFK6ucTd4o/edit#heading=h.7urhd3dh4541)
 - [Conseils Pierre Criulanscy](https://www.linkedin.com/posts/pierre-criulanscy_apprentissage-formation-tech-activity-6809014615469510656-vyOX/)
 - [Décroche ton CDI](https://practicalprogramming.fr/developpeur-en-cdi)
+- [The State of Developer Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/)
 
 ## Videos
 
