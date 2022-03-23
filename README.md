@@ -53,3 +53,4 @@ Des ressources pour décrocher le job de mes rêves.
 - [Guide Linkedin](https://www.dropbox.com/s/jbmjlr3a9lrnkzj/linkedin_by_simon.pdf?dl=0)
 - [Portfolio Michel Deckert](https://www.mdkrt.dev/)
 - [React Ultimate Resume](https://welovedevs.com/react-ultimate-resume)
+- [CV Terminal](https://adautry.fr/project/resume-cv-terminal)
